@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PengWang0316/VerifyJWT.git"
+    "url": "git+https://github.com/PengWang0316/LazyLoadObserver.git"
   },
   "keywords": [
     "Lazy loader",
@@ -28,9 +28,9 @@
     "IntersectionObserver"
   ],
   "bugs": {
-    "url": "https://github.com/PengWang0316/VerifyJWT/issues"
+    "url": "https://github.com/PengWang0316/LazyLoadObserver/issues"
   },
-  "homepage": "https://github.com/PengWang0316/VerifyJWT#readme",
+  "homepage": "https://github.com/PengWang0316/LazyLoadObserver#readme",
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.2.3",
