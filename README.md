@@ -25,6 +25,7 @@ Add this in the end of the body section
 ```
 
 That's it. This library will show the placeholder images and replace them with the real images when a user navigate close to the img tag.
+
 For the browsers that does not support IntersectionObserver, the library will automaticall replace the src with the real image url.
 
 # Example
