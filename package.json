@@ -7,7 +7,7 @@
     "unitTest": "jest",
     "unitTestWatch": "jest --watch",
     "unitTestCoverage": "jest --coverage",
-    "build": "babel src --out-dir ./ && uglifyjs ./LazyLoadObserver.js -c -m -o LazyLoadObserver.min.js"
+    "build": "babel src --out-dir ./ && uglifyjs ./LazyLoadObserver.js -c -m -o LazyLoadObserver.min.js && rm ./LazyLoadObserver.js"
   },
   "main": "./LazyLoadObserver.min.js",
   "author": "Kevin W.",
@@ -23,9 +23,9 @@
     "url": "git+https://github.com/PengWang0316/VerifyJWT.git"
   },
   "keywords": [
-    "JWT",
-    "JSON Web Token",
-    "Parser"
+    "Lazy loader",
+    "Lazy image",
+    "IntersectionObserver"
   ],
   "bugs": {
     "url": "https://github.com/PengWang0316/VerifyJWT/issues"
