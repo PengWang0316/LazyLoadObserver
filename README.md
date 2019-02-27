@@ -32,4 +32,4 @@ You can find one example of the usage in example.html file.
 
 # License
 
-Log is licensed under MIT License - see the [License file](https://github.com/PengWang0316/LazyLoadObserver/blob/master/LICENSE).
+Lazy Load Observer is licensed under MIT License - see the [License file](https://github.com/PengWang0316/LazyLoadObserver/blob/master/LICENSE).
