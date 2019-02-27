@@ -1,8 +1,11 @@
 # Lazy Load Observer
 
 A library to help lazy load images on the page. This version is supposed to use in the html file directly.
+
 Images that have not been visible (not in the current visible area) will use a placeholder. When a user naviage close to images, the real images' url will be replaced.
+
 This can help your website save loading time and bandwith by deferring images' loading time.
+
 A user may never see some of your big pictures under the bottom section. Why load them?
 
 # Usage
