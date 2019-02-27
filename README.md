@@ -27,6 +27,7 @@ For the browsers that does not support IntersectionObserver, the library will au
 # Example
 
 You can find one example of the usage in example.html file.
+
 ![alt text](https://github.com/PengWang0316/LazyLoadObserver/blob/master/example.gif "Example Picture")
 
 # License
